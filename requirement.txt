@@ -1,0 +1,14 @@
+Flask==3.0.3
+Werkzeug==3.0.3
+tensorflow==2.16.1
+numpy==1.25.2
+pandas==2.0.3
+opencv-python-headless==4.8.1.78
+Pillow==10.0.0
+h5py==3.10.0
+gunicorn==22.0.0
+python-decouple==3.8
+psycopg2-binary==2.9.7
+requests==2.31.0
+
+
